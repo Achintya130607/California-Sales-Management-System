@@ -34,6 +34,18 @@ This project is an interactive Power BI dashboard developed to analyze Californi
 - Sales by Category
 - Sales Trend
 
+## 📷 Dashboard Preview
+
+### Main Dashboard
+![Dashboard](Dashboard.png)
+
+### Data Model
+![Data Model](Data_Model.png)
+
+### Dataset Preview
+![Dataset Preview](Dataset_Preview.png)
+
+
 ## 📂 Files Included
 - California Sales Management System.pbix
 - Dataset (.xlsx/.csv)
@@ -45,14 +57,3 @@ To transform raw sales data into an interactive business intelligence dashboard 
 ## 👨‍💻 Author
 **Achintya Agrawal**
 Aspiring Data Analyst | SQL | Power BI | Excel
-
-## 📷 Dashboard Preview
-
-### Main Dashboard
-![Dashboard](Dashboard.png)
-
-### Data Model
-![Data Model](Data_Model.png)
-
-### Dataset Preview
-![Dataset Preview](Dataset_Preview.png)
