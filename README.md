@@ -45,3 +45,14 @@ To transform raw sales data into an interactive business intelligence dashboard 
 ## 👨‍💻 Author
 **Achintya Agrawal**
 Aspiring Data Analyst | SQL | Power BI | Excel
+
+## 📷 Dashboard Preview
+
+### Main Dashboard
+![Dashboard](Dashboard.png)
+
+### Data Model
+![Data Model](Data_Model.png)
+
+### Dataset Preview
+![Dataset Preview](Dataset_Preview.png)
